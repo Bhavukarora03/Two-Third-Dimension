@@ -14,7 +14,7 @@ Team members:
 * Reached Top 5 in popularity out of 155 entries
 * platform : pc .  language : c#(unity engine)
 
-<img align="Centre" src="https://i.imgur.com/uvWLz71.png"/>    
+<img align="center" src="https://i.imgur.com/uvWLz71.png"/>    
 <img src="https://i.imgur.com/PBBqm4a.png"/>
 <img src="https://i.imgur.com/T4Q8NfM.png"/>    
 <img src="https://i.imgur.com/b1fAury.png"/>
