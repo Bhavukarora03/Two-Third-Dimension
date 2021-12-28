@@ -15,8 +15,7 @@ Team members:
 * platform : pc .  language : c#(unity engine)
 
 <img align="center" src="https://i.imgur.com/uvWLz71.png"/>    
-<img src="https://i.imgur.com/PBBqm4a.png"/>
-<img src="https://i.imgur.com/T4Q8NfM.png"/>    
-<img src="https://i.imgur.com/b1fAury.png"/>
+<img align="center" src="https://i.imgur.com/PBBqm4a.png"/>   
+<img align="center" src="https://i.imgur.com/b1fAury.png"/>
 
 
